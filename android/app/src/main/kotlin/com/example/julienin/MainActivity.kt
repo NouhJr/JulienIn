@@ -1,4 +1,4 @@
-package j.julienin
+package com.julienin
 
 import io.flutter.embedding.android.FlutterActivity
 
